@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+
+.gray-box{
+  border: 1px solid black;
+  background-color: gray;
+
+}
+
+.pink-box{
+  border: 1px solid black;
+  background-color: pink;
+
+}
